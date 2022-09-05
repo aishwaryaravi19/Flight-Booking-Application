@@ -1,0 +1,17 @@
+test/validator/CardValidator.class
+test/validator/SeatsValidator.class
+test/validator/DiscoverCardValidator.class
+test/validator/AmexCardValidator.class
+test/output/FileWriter.class
+test/output/FileWriterFactory.class
+test/model/Flight$FlightBuilder.class
+test/db/PopulateStaticDatabase.class
+test/output/TextFileWriter.class
+test/output/CsvFileWriter.class
+test/validator/VisaCardValidator.class
+test/validator/PaymentValidator.class
+test/validator/MasterCardValidator.class
+test/RunClient.class
+test/model/Flight.class
+test/validator/FlightNumberValidator.class
+test/validator/Validator.class
